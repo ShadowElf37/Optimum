@@ -1,0 +1,6 @@
+let y {
+    return x/4;
+} from x;
+
+z is y(5);
+print(z);
